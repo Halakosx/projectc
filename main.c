@@ -1,3 +1,4 @@
+// test of new commit
 #include<stdio.h>
 #include<stdlib.h>
 #include"fonction.h"
